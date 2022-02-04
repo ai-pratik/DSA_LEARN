@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.rmd": "markdown",
+        "*.py": "python",
+        "*.cpp": "cpp",
+        "iostream": "cpp",
+        "__hash_table": "cpp",
+        "unordered_map": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
